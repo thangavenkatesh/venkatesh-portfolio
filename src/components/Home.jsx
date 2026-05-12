@@ -1,5 +1,4 @@
-import { FaGithub, FaInstagram, FaLinkedin, FaReact, FaNodeJs, FaHtml5, FaCss3Alt, FaGitAlt, } from "react-icons/fa";
-import { SiJavascript, SiTailwindcss, SiMongodb, SiExpress, SiPostman, SiVercel, } from "react-icons/si";
+import { FaGithub, FaInstagram, FaLinkedin } from "react-icons/fa";
 import { assets } from "../assets/assets";
 import { motion } from "framer-motion";
 import { useEffect, useState } from "react";

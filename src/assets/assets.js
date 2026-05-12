@@ -1,6 +1,6 @@
-import p1 from './venkart.png'
-import p4 from './p2.jpg'
-import p5 from './p3.png'
+import p1 from './p1.avif'
+import p4 from './p4.jpg'
+import p5 from './p3.jpg'
 import gif from './profile.gif'
 import me from './file1.png'
 export const projects = [{ id: 1, image: p1, projectName: "E-commerce", frame1: "React.js", frame2: "Express.js", link: "https://venky-ecommerce.netlify.app", content: "Developed a full-stack e-commerce web application with complete user functionality including authentication, cart management, order processing, and secure payment integration. Implemented user login and registration with authentication, allowing users to add products to the cart, place orders, and track their purchases.Built RESTful APIs using Node.js and Express.js to handle backend operations such as user management, product handling, and order processing." },

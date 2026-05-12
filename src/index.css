@@ -2,11 +2,6 @@
 html {
   scroll-behavior: smooth;
 }
-.ai{
-  background-image: url('/src/assets/wallpaper.jpg');
-  background-repeat: no-repeat;
-  background-size: cover;
-}
 .slider{
   width: max-content;
   display: flex;
