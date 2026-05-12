@@ -1,0 +1,10 @@
+import p1 from './venkart.png'
+import p4 from './p2.jpg'
+import p5 from './p3.png'
+import gif from './profile.gif'
+import me from './file1.png'
+export const projects = [{ id: 1, image: p1, projectName: "E-commerce", frame1: "React.js", frame2: "Express.js", link: "https://venky-ecommerce.netlify.app", content: "Developed a full-stack e-commerce web application with complete user functionality including authentication, cart management, order processing, and secure payment integration. Implemented user login and registration with authentication, allowing users to add products to the cart, place orders, and track their purchases.Built RESTful APIs using Node.js and Express.js to handle backend operations such as user management, product handling, and order processing." },
+{id: 2,image: p4,projectName: "Movie-Website",frame1: "Framer Motion",frame2: "Tailwind CSS",link: "https://venky-ecommerce.netlify.app",content:"Developed a responsive movie website using React.js and Tailwind CSS with a modern and interactive user interface. Implemented dynamic movie cards, search functionality, category-based filtering, and smooth animations using Framer Motion. Designed fully responsive layouts to provide an optimized experience across desktop, tablet, and mobile devices while maintaining clean UI/UX principles."},
+{id: 3,image: p5,projectName: "Tourist-commerce",frame1: "Framer Motion",frame2: "Tailwind CSS",link: "https://venky-ecommerce.netlify.app",content:"Built a tourist destination web application using React.js and Tailwind CSS featuring attractive destination cards, travel package sections, and interactive UI components. Created responsive page layouts with smooth animations and modern design practices to enhance user experience. Implemented reusable React components and optimized the frontend structure for clean navigation and performance."}
+]
+export const assets = { gif, me }
