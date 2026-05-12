@@ -1,6 +1,6 @@
 import { assets } from "../assets/assets";
 import { motion } from "framer-motion";
-import Counter from "./counter";
+import Counter from "./Counter"
 import { FaReact, FaNodeJs, FaDatabase, FaCode, } from "react-icons/fa";
 
 const About = () => {
